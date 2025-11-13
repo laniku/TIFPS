@@ -1,0 +1,12 @@
+*.8xp
+bin/
+
+*.o
+*.d
+*.dep
+obj/
+
+*.emu
+ceemu.cfg
+
+cedev.cfg
